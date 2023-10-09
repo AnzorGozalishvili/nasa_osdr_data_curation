@@ -5,9 +5,9 @@ This repo contains the main work on [NASA SPACE APPS CHALLENGE](https://www.spac
 - [Anzor Gozalishvili](https://github.com/AnzorGozalishvili)
 - [Amiran Gozalishvili](https://github.com/AmiranGozalishvili)
 - [Revaz Revazashvili](https://github.com/revaza05)
-- Kristine Eliosidze
-- Medea Gejadze
-- Salome Javashvili
+- [Kristine Eliosidze](https://github.com/kristiELLL)
+- [Medea Gejadze](https://www.linkedin.com/in/medea-gejadze-3ab818207/)
+- [Salome Javashvili](https://www.linkedin.com/in/salome-javashvili/)
 
 # Project Description
 [Project Description](nasa_challenge_project_description.md)
