@@ -22,6 +22,6 @@ This repo contains the main work on [NASA SPACE APPS CHALLENGE](https://www.spac
 
 # Huggingface Datasets Repository
 - [NASA_OSDR](https://huggingface.co/datasets/anz2/NASA_OSDR): contains merged table on huggingface datasets repo
-- [RNABERT](https://huggingface.co/models/anz2/RNABERT): incomplete work. Trying to make RNABERT available on Huggingface Models registry.
+- [RNABERT](https://huggingface.co/anz2/RNABERT): incomplete work. Trying to make RNABERT available on Huggingface Models registry.
 
   
