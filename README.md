@@ -33,4 +33,8 @@ This repo is the continuation of the work started in (https://github.com/AnzorGo
 - [nasa_osdr](https://huggingface.co/datasets/anz2/nasa_osdr): contains merged table on huggingface datasets repo
 - [RNABERT](https://huggingface.co/anz2/RNABERT): incomplete work. Trying to make RNABERT available on Huggingface Models registry.
 
+
+# Resources / References
+https://docs.google.com/document/d/1RZ79yiKUDiEZF3Y6-OG0JJkslv3WicjS98T3tvozT2U/edit?usp=sharing
+
   
