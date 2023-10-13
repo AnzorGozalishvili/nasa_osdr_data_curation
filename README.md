@@ -4,15 +4,15 @@ This repo is the continuation of the work started in (https://github.com/AnzorGo
 # Latest Update: 13.10.2023
 
 # GOALS:
-1. Perform full data exploration of OSDR on s3 and make those work available in dataset curation notebook(s)
-2. Make full data accessible on Huggingface
-  2.1 Create `experiments` table which contains list of experiments (around 451 as of now)
-  2.2 Create `samples` table which contains all samples tables aggregated
-  2.3 Create `assays` tables which will contain assays tables aggregated categorized by the studies
-3. Add `RNABERT` on Huggingface
-4. Add `RNA-FM` on Huggingface
-5. Make inferences on RNA sequences on OSDR dataset and add them as a dataset features
-6. Perform Multi-Dimensional analysis using clustering, 3D structure prediction, Structural Alignment, etc.
+- 1. Perform full data exploration of OSDR on s3 and make those work available in dataset curation notebook(s)
+- 2. Make full data accessible on Huggingface
+  - 1. Create `experiments` table which contains list of experiments (around 451 as of now)
+  - 2. Create `samples` table which contains all samples tables aggregated
+  - 3. Create `assays` tables which will contain assays tables aggregated categorized by the studies
+- 4. Add `RNABERT` on Huggingface
+- 5. Add `RNA-FM` on Huggingface
+- 6. Make inferences on RNA sequences on OSDR dataset and add them as a dataset features
+- 7. Perform Multi-Dimensional analysis using clustering, 3D structure prediction, Structural Alignment, etc.
 
 # OUR TEAM: [**Space-Born RNA**](https://www.spaceappschallenge.org/2023/find-a-team/dea-has-covid/?tab=details)
 - [Anzor Gozalishvili](https://github.com/AnzorGozalishvili)
